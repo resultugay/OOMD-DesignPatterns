@@ -6,4 +6,4 @@ This small project is prepared for students who want to implement a concrete exa
 
 The problem statement was given in the file "oomd1819h4.pdf" file.
 
-Class diagram of the problem was also given.
+Class diagram of the problem was also given in the file "class_diagram.pdf"
